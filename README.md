@@ -15,7 +15,7 @@ We have made the source code of Xbot and the corresponding dataset publicly avai
 * Java environment (jdk): jdk1.8.0_45
 * Open ~/.bashrc and configure the path of JDK and SDK (Replace by your own paths):
 ```
-export JAVA_HOME=/usr/lib/jvm/jdk1.8.0_45
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home
 export JAVA_BIN=/usr/lib/jvm/jdk1.8.0_45/bin
 export CLASSPATH=.:${JAVA_HOME}/lib/dt.jar:${JAVA_HOME}/lib/tools.jar
 export PATH=$PATH:${JAVA_HOME}/bin
